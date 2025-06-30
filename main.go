@@ -34,7 +34,7 @@ func init() {
 
 // @host localhost:6969
 // @BasePath /
-// @schemes http
+// @schemes http https
 // @securityDefinitions.apikey BearerAuth
 // @in header
 // @name Authorization
