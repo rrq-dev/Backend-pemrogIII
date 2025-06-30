@@ -14,7 +14,7 @@
         },
         "version": "1.0"
     },
-    "host": "localhost:6969",
+    "host": "https://backend-pemrogiii.onrender.com:6969",
     "basePath": "/",
     "paths": {
         "/api/mahasiswa": {

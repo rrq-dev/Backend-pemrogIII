@@ -32,7 +32,7 @@ func init() {
 // @contact.url https://github.com/rrq-dev
 // @contact.email raihanaditya1506@gmail
 
-// @host localhost:6969
+// @host https://backend-pemrogiii.onrender.com:6969
 // @BasePath /
 // @schemes http https
 // @securityDefinitions.apikey BearerAuth
